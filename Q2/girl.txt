@@ -1,0 +1,10 @@
+G0 97 1 25 choosy
+G1 38 975 58 desperate
+G2 54 734 29 normal
+G3 91 11 10 choosy
+G4 17 462 24 desperate
+G5 33 923 66 choosy
+G6 72 61 92 normal
+G7 80 568 47 choosy
+G8 53 51 19 choosy
+G9 65 393 3 desperate

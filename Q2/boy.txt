@@ -1,0 +1,10 @@
+B0 72 59 97 6706 generous
+B1 57 83 43 5525 geeks
+B2 18 12 62 553 miser
+B3 27 2 44 8688 geeks
+B4 77 39 9 1403 geeks
+B5 71 27 38 2542 miser
+B6 47 39 29 6475 generous
+B7 21 83 87 2355 generous
+B8 36 17 55 4845 geeks
+B9 50 27 17 8049 geeks
