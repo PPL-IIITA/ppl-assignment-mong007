@@ -1,5 +1,5 @@
 ## Title Of Project:
->>####Principles of Programming Languages (IPPL430C) - Assignment
+>>####Principles of Programming Languages (IPPL430C) - Assignment(Q1,Q2)
 
 ## Platform Used:
 >>The project is tested in <b>JAVA </b> with the help of 
