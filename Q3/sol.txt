@@ -1,0 +1,20 @@
+9 most happy couples are
+B32 G4
+B22 G6
+B35 G11
+B82 G66
+B76 G62
+B89 G82
+B59 G51
+B61 G55
+B58 G47
+9 most compatible couples are
+B28 G67
+B0 G2
+B17 G32
+B33 G26
+B93 G44
+B48 G39
+B18 G71
+B36 G99
+B42 G19
