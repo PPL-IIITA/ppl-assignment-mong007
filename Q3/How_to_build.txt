@@ -2,7 +2,7 @@ To Build run
 >> javac Q3.java
 
 
-To execute, make sure you have build the file first.
+To execute, make sure you have to build the file first.
 then run command
 >> java Q3
 
