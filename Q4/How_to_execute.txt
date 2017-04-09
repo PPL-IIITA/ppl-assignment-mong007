@@ -1,0 +1,5 @@
+To execute, make sure you have build the file first.
+then run command
+>> java Q4
+
+sol.txt stores the ans of the question(which is automatically generated after execution of program).

@@ -1,0 +1,10 @@
+Couple who broke are
+B11 G16
+B56 G48
+B57 G61
+B58 G68
+New couples formed
+B98 G16
+B99 G48
+B95 G61
+B86 G68
