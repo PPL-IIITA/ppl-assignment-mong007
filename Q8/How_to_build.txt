@@ -1,0 +1,44 @@
+To Build run 
+>> javac Q8.java
+
+
+To execute, make sure you have build the file first.
+then run command
+>> java Q8
+
+sol.txt stores the ans of the question(which is automatically generated after execution of program).
+
+
+
+
+
+***********************************************************************
+
+
+To Generate Documentation
+For Q8 package
+>> javadoc -d javadoc/Q8 Q8.java
+open index.html in javadoc/Q8
+
+For boy Package
+>>    javadoc -d ./javadoc/boy boy
+open index.html in javadoc/boy
+
+For girl Package
+>>   javadoc -d ./javadoc/girl girl
+open index.html in javadoc/girl
+
+For Gift_selector package
+>>   javadoc -d ./javadoc/Gift_selector Gift_selector
+open index.html in javadoc/Gift_selector
+
+For gift Package
+>>    javadoc -d ./javadoc/gift gift
+open index.html in javadoc/gift
+
+For testgen Package
+>>    javadoc -d ./javadoc/testgen testgen
+open index.html in javadoc/testgen
+
+
+
