@@ -7,7 +7,7 @@ package q1;
 
 /**
  *
- * @author vishal
+ * @author vishal iit2015141
  */
 import java.util.*;
 import java.lang.*;
