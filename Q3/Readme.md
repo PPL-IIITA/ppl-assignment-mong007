@@ -1,5 +1,5 @@
 ## Contents:
-><b>How_to_build.txt</b> It contains build commands.
+><b>How_to_build.txt</b> It contains build commands.It also contains commands to generate documentation. 
 ><br><b>Input Files</b> Input Files are <b>boy.txt, girl.txt, gift.txt</b>.,<br>
 ><br><b>Result</b> Result is in <b>sol.txt</b>.,<br>
 ><b>Q3.java</b> It is main class of question.
